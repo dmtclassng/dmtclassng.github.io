@@ -20,15 +20,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="159" column="55" lean-forward="true" selection-start-line="159" selection-start-column="55" selection-end-line="159" selection-end-column="55" />
+            <state relative-caret-position="213">
+              <caret line="76" column="83" lean-forward="false" selection-start-line="76" selection-start-column="83" selection-end-line="76" selection-end-column="83" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#5730#5735#0" expanded="true" />
-                <element signature="e#6763#6768#0" expanded="true" />
-                <element signature="e#7368#7373#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,12 +209,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520932320250</updated>
-      <workItem from="1520932321790" duration="8437000" />
+      <workItem from="1520932321790" duration="8763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8437000" />
+    <option name="totallyTimeSpent" value="8763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -393,15 +390,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="159" column="55" lean-forward="true" selection-start-line="159" selection-start-column="55" selection-end-line="159" selection-end-column="55" />
+        <state relative-caret-position="213">
+          <caret line="76" column="83" lean-forward="false" selection-start-line="76" selection-start-column="83" selection-end-line="76" selection-end-column="83" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#5730#5735#0" expanded="true" />
-            <element signature="e#6763#6768#0" expanded="true" />
-            <element signature="e#7368#7373#0" expanded="true" />
           </folding>
         </state>
       </provider>
